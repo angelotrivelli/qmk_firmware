@@ -1,6 +1,6 @@
 # numpad
 
-<img src="./14-NOV-2026.jpeg" alt="numpad" width="33%">
+<img src="https://i.imgur.com/0AazzXz.jpeg" alt="numpad" width="33%">
 
 
 First attempt at keyboarding!
